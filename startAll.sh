@@ -1,0 +1,5 @@
+ssh pi@192.168.1.13 'sudo /home/pi/Documents/Sensors/shareStart.sh'
+ssh pi@192.168.1.3 'sudo /home/pi/Documents/Projects/sensors/shareStart.sh'
+ssh pi@192.168.1.14 'sudo /home/pi/Documents/projects/Sensors/shareStart.sh'
+ssh pi@192.168.1.15 'sudo /home/pi/Documents/Sensors/startShare.sh'
+ssh pi@192.168.1.4 'sudo /home/pi/Documents/Sensors/startShare.sh'
